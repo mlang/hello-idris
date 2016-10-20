@@ -1,0 +1,6 @@
+package hello_idris
+modules = Main
+
+executable = hello
+main = Main
+
